@@ -8,3 +8,5 @@ description: "Enter your address to find and contact your federal, state, county
 gems:
   - jekyll-redirect-from
 google_api_key: AIzaSyAVQrWzBeHiKaOiNwkEyLkxDV8-jUbTmTw
+
+theme: jekyll-theme-minimal
